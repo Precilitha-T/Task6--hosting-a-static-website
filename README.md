@@ -31,7 +31,7 @@ git commit -m "Initial commit"
 
 5. Push to GitHub:
 
-git remote add origin https://github.com/your-username/your-repository-name.git
+git remote add origin https://github.com/Precilitha-T/Task6--hosting-a-static-website.git
 git branch -M main
 git push -u origin main
 
@@ -54,3 +54,11 @@ CSS3 (optional)
 Git & GitHub
 
 GitHub Pages
+
+Results:
+
+![Screenshot (239)](https://github.com/user-attachments/assets/68e49c2f-df78-4cc4-aba9-d00c727b2582)
+![Screenshot (237)](https://github.com/user-attachments/assets/33c4fc55-f778-40d2-964a-c9ea4a2b2010)
+![Screenshot (238)](https://github.com/user-attachments/assets/9dd0faf4-4891-4c67-b9ad-dba2984e592f)
+
+
